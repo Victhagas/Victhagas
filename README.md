@@ -1,4 +1,4 @@
-# Active Touch Lab
+# Neural Pathways Lab
 
 This is the website of our academic research group.
 

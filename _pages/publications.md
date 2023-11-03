@@ -1,7 +1,7 @@
 ---
-title: "ActiveTouch Lab - Publications"
+title: "Neural Pathways Lab - Publications"
 layout: gridlay
-excerpt: "ActiveTouch Lab -- Publications."
+excerpt: "Neural Pathways Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

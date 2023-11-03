@@ -1,7 +1,7 @@
 ---
-title: "ActiveTouch Lab - Team"
+title: "Neural Pathways Lab - Team"
 layout: gridlay
-excerpt: "ActiveTouch Lab: Team members"
+excerpt: "Neural Pathways Lab: Team members"
 sitemap: false
 permalink: /team/
 ---

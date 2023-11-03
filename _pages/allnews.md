@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Active Touch Lab at the University of Sheffield."
+excerpt: "Neural Pathways Lab at the University of Sheffield."
 sitemap: false
 permalink: /allnews.html
 ---

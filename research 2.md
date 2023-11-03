@@ -1,7 +1,7 @@
 ---
-title: "Active Touch Lab - Research"
+title: "Neural Pathways Lab - Research"
 layout: textlay
-excerpt: "Active Touch Lab -- Research"
+excerpt: "Neural Pathways Lab -- Research"
 sitemap: false
 permalink: /research/
 ---

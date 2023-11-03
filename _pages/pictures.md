@@ -1,7 +1,7 @@
 ---
-title: "ActiveTouch Lab - Pictures"
+title: "Neural Pathways Lab - Pictures"
 layout: piclay
-excerpt: "ActiveTouch Lab -- Pictures"
+excerpt: "Neural Pathways Lab -- Pictures"
 permalink: /pictures/
 ---
 

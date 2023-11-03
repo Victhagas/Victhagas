@@ -1,5 +1,5 @@
 ---
-title: "Active Touch Lab - Vacancies"
+title: "Neural Pathways Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

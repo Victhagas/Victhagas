@@ -1,5 +1,5 @@
 ---
-title: "ActiveTouch Lab - AOA"
+title: "Neural Pathways Lab - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
