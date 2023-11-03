@@ -1,14 +1,14 @@
 ---
-title: "Allan Lab - Research"
+title: "ActiveTouch Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "ActiveTouch Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Updating soon -- stay put. (Aug 11 2023)
+Updating soon -- stay put. (Nov 2 2023)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
