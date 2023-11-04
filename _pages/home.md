@@ -6,6 +6,7 @@ sitemap: false
 permalink: /
 ---
 
+Welcome to the Neural Pathways laboratory! We are 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -52,7 +53,7 @@ permalink: /
 
 We are based at the [University of Sheffield](https://www.sheffield.ac.uk) in the Department of Psychology. We are also affiliated with Sheffield Robotics, INSIGNEO Institute for in silico Medicine, and the Neuroscience Institute. 
 
-Our research is funded by the [European Union](https://commission.europa.eu/index_en), and the [Leverhulme Trust](https://www.leverhulme.ac.uk)
+Our research is funded by the [European Union](https://commission.europa.eu/index_en), and the [Leverhulme Trust](https://www.leverhulme.ac.uk).
 
 
 <figure class="third">
