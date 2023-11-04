@@ -20,7 +20,6 @@ figcaption {
 }
 
 
-
 /* Top navigation bar */
 
 
@@ -80,7 +79,6 @@ firstp {
 	padding-right: 26px;
 }
 
-
 /* Carusel */
 
 .carousel {
@@ -92,5 +90,9 @@ firstp {
 }
 
 .navbar-nav > li > a {
-    font-size: 40px; 
+    font-size: 28px; 
   }
+ 
+#homeid h1 {
+  font-size: 20px; /* adjust the value to your desired size */
+}
