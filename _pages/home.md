@@ -6,8 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-**News: A new student is coming to visit us.** 
-
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -53,12 +51,9 @@ permalink: /
 </div>
 
 
-We are a dynamic research group, at the [The University of Sheffield](https://www.sheffield.ac.uk). Our aim is to... (see [Research](research)). 
+We are based at the[University of Sheffield](https://www.sheffield.ac.uk) in the Department of Psychology. We are also affiliated with Sheffield Robotics, INSIGNEO Institute for in silico Medicine, and the Neuroscience Institute. 
 
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
+Our research is funded by the [European Union](https://commission.europa.eu/index_en), and the [Leverhulme Trust](https://www.leverhulme.ac.uk)
 
 
 <figure class="third">
