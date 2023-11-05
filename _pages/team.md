@@ -28,7 +28,6 @@ permalink: /team/
   <br>email: <{{ member.email }}></i>
   <p>{{ member.education1 }}</p>
   {% endfor %}
-
 </div>
 
 ### Alumni
@@ -48,7 +47,9 @@ permalink: /team/
   <i>{{ member.duration }} 
   <br> Role: {{ member.info }}</i>
   <p>{{ member.education1 }}</p>
- 
+  {% endfor %}
+</div>
+
 ### Former visitors, BSc/ MSc students
 <div class="row">
 
