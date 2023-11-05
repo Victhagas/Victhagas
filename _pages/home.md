@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
                                              
-<div style="margin-top: 35px;">
+<div style="margin-top: 35px; text-align:justify;">
   <p>Welcome to the Neural Pathways laboratory! We are a dynamic research group. Our aim is to explore and understand, obviously, the neural pathways and its implications, including neuronal newtworks models, brain-imaging, and machine learning. We want to be able to investigate the most briliant instrument of us humans, our brain.</p>
 </div>
 
@@ -51,9 +51,9 @@ permalink: /
 </div>
 
 <div style="text-align: justify;">
-  <p>We are based at the [University of Sheffield](https://www.sheffield.ac.uk) in the Department of Psychology. We are also affiliated with Sheffield Robotics, INSIGNEO Institute for in silico Medicine, and the Neuroscience Institute.<p>
+  We are based at the [University of Sheffield](https://www.sheffield.ac.uk) in the Department of Psychology. We are also affiliated with Sheffield Robotics, INSIGNEO Institute for in silico Medicine, and the Neuroscience Institute.
 
-  <p>Our research is funded by the [European Union](https://commission.europa.eu/index_en), and the [Leverhulme Trust](https://www.leverhulme.ac.uk).<p>
+  Our research is funded by the [European Union](https://commission.europa.eu/index_en), and the [Leverhulme Trust](https://www.leverhulme.ac.uk).
 </div>
 
 <figure class="third">
