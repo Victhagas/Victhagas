@@ -7,7 +7,7 @@ permalink: /
 ---
                                              
 <div style="margin-top: 30px;">
-  <p>Welcome to the Neural Pathways laboratory! We are a very cool group.</p>
+  <p>Welcome to the Neural Pathways laboratory! We are a dynamic research group. Our aim is to explore and understand, obviously, the neural pathways and its implications, including neuronal newtworks models, brain-imaging, and machine learning. We want to be able to investigate the most briliant instrument of us humans, our brain. (see Research).</p>
 </div>
 
 
