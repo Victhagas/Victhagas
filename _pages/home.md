@@ -20,7 +20,6 @@ permalink: /
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
@@ -37,11 +36,8 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/footsim.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/footsim.jpg" alt="Slide 5" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -59,8 +55,8 @@ We are based at the [University of Sheffield](https://www.sheffield.ac.uk) in th
 Our research is funded by the [European Union](https://commission.europa.eu/index_en), and the [Leverhulme Trust](https://www.leverhulme.ac.uk).
 
 
-<figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Sheffield_Logo.jpg" style="width: 210px">
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Sheffield_Logo2.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Insigneo_Logo.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Leverhulme_Trust_Logo.jpg" style="width: 110px">
 </figure>
