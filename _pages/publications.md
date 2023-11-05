@@ -60,8 +60,6 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
-
 ### Full List of publications
 
 {% for publi in site.data.publist %}

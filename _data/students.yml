@@ -1,19 +1,1 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
-
-- name: Paulo Chagas
-  photo: rock.jpg
-  info: Visiting Student
-  email: paulochagas@biof.ufrj.br
-  number_educ: 0
-  education1:
-
-
 

@@ -6,3 +6,12 @@
     url: https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0052
     display: Journal of Royal Society, Volume 20, Issue 203 (June 2023)
   highlight: 1
+
+- title: "example"
+  image: paper1.jpg
+  description: Here, we recorded spatio-temporal plantar pressure patterns with high spatial resolution while participants completed a wide range of daily activities, including balancing, locomotion and jumping tasks.
+  authors: Cleland LD, Rowland HM, Mazzà C & Saal HP (2023)
+  link:
+    url: https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0052
+    display: Journal of Royal Society, Volume 20, Issue 203 (June 2023)
+  highlight: 1
