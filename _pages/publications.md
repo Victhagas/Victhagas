@@ -6,7 +6,6 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 ## Publications
 
 ### Group highlights
