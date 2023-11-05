@@ -5,9 +5,11 @@ excerpt: "Neural Pathways at Sheffield University."
 sitemap: false
 permalink: /
 ---
-              
                                              
-Welcome to the Neural Pathways laboratory! We are 
+<div style="margin-top: 30px;">
+  <p>Welcome to the Neural Pathways laboratory! We are a very cool group.</p>
+</div>
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
