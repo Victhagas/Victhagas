@@ -90,7 +90,7 @@ firstp {
 
 .navbar-nav > li > a {
     font-size: 20px; 
-  }
+}
  
 #homeid h1 {
   font-size: 20px;
@@ -117,6 +117,11 @@ firstp {
   border-bottom-color: #000000; /* set the color of the existing line to black */
 }
 
-footer {
+.panel-footer {
   border-top: 1px solid #000000; /* set the border style to a fine black line */
+}
+
+.carousel-inner .item img {
+  width: 100%; /* set the width to occupy the entire width of the carousel */
+  height: auto; /* maintain the original aspect ratio of the images */
 }
