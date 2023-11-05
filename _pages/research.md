@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-<div style="margin-top: 30px;">
+<div style="margin-top: 35px;">
 
 ### Research
 

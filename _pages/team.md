@@ -6,7 +6,12 @@ sitemap: false
 permalink: /team/
 ---
 
-### Staff
+<div style="margin-top: 35px;">
+
+### Team
+
+</div>
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 

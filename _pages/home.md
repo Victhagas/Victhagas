@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
                                              
-<div style="margin-top: 30px;">
+<div style="margin-top: 35px;">
   <p>Welcome to the Neural Pathways laboratory! We are a dynamic research group. Our aim is to explore and understand, obviously, the neural pathways and its implications, including neuronal newtworks models, brain-imaging, and machine learning. We want to be able to investigate the most briliant instrument of us humans, our brain.</p>
 </div>
 
@@ -54,9 +54,8 @@ We are based at the [University of Sheffield](https://www.sheffield.ac.uk) in th
 
 Our research is funded by the [European Union](https://commission.europa.eu/index_en), and the [Leverhulme Trust](https://www.leverhulme.ac.uk).
 
-
 <figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Sheffield_Logo.jpg" style="width: 110px; margin-right: 30px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Insigneo_Logo.jpg" style="width: 110px; margin-right: 30px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Leverhulme_Trust_Logo.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Sheffield_Logo.jpg" style="width: 110px; margin-right: 30px; margin-top: 45px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Insigneo_Logo.jpg" style="width: 110px; margin-right: 30px; margin-top: 45px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Leverhulme_Trust_Logo.jpg" style="width: 110px; margin-top: 45px">
 </figure>

@@ -1,18 +1,16 @@
-- name: Hannes Saal
+- name: Dr. Rodrigo S Kazu
+  photo: Rodrigo.png
+  info: Data Scientist
+  email: r.siqueiradesouza@sheffield.ac.uk
+  number_educ: 1
+  education1: I am a research associate in computational neuroscience with experience in complex networks, comparative neuroanatomy and cell culturing. In the Active Touch Lab I am helping people walk again by modelling the tactile responses of the foot sole aiming at real-time feedback prosthetics! In addition to that, I am a member of INSIGNEO and a data scientist for the AMRC at the University of Sheffield. My research interests include general intelligence, network neuroscience and information processing in the somatosensory cortex.
+
+- name: Dr. Hannes P Saal
   photo: Hannes.jpg
-  info: Associate professor
+  info: Associate Professor
   email: h.saal@sheffield.ac.uk
   number_educ: 4
   education1: Cognitive Science at the University of Osnabrück, Germany
   education2: MSc in Neuroinformatics at the University of Edinburgh
   education3: PhD in Neuroinformatics at the University of Edinburgh
   education4: Postdoc at Sliman Bensmaia lab, the University of Chicago
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: 
-  email: 
-  number_educ: 0
-  education1:
-  education2:
-  education3:
