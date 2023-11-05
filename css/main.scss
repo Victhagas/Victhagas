@@ -122,6 +122,10 @@ firstp {
 }
 
 .carousel-inner .item img {
-  width: 100%; /* set the width to occupy the entire width of the carousel */
-  height: auto; /* maintain the original aspect ratio of the images */
+  width: 920px; /* set the width to occupy the entire width of the carousel */
+  height: 465px; /* maintain the original aspect ratio of the images */
+}
+
+figure.third img {
+  margin-right: 100px; /* adjust the value as needed */
 }
