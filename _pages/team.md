@@ -18,8 +18,8 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
 {% endif %}
+<div class="row">
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
@@ -27,6 +27,8 @@ permalink: /team/
   <i>{{ member.info }} 
   <br>email: <{{ member.email }}></i>
   <p>{{ member.education1 }}</p>
+  {% endfor %}
+
 </div>
 
 ### Alumni
@@ -46,7 +48,7 @@ permalink: /team/
   <i>{{ member.duration }} 
   <br> Role: {{ member.info }}</i>
   <p>{{ member.education1 }}</p>
-
+ 
 ### Former visitors, BSc/ MSc students
 <div class="row">
 
