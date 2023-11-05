@@ -7,7 +7,8 @@ permalink: /research/
 ---
 
 <div style="margin-top: 30px;">
-  <p>### Research</p>
+
+### Research
 
 </div>
 
