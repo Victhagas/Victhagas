@@ -133,7 +133,7 @@ firstp {
 /* Styles for mobile devices */
 @media only screen and (max-width: 767px) {
   .carousel-inner .item img {
-    width: auto; height: 200px; 
+    width: auto; height: 100px; 
   }
 }
 
@@ -144,3 +144,11 @@ firstp {
     width: auto; height: 300px;
   }
 }
+
+// /* Styles for full HD resolution */
+// @media only screen and (min-width: 768px) {
+//   /* Set image size for computer devices */
+//   .carousel-inner .item img {
+//     width: auto; height: 300px;
+//   }
+// }

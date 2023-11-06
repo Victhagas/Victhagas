@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
 
   {% include head.html %}
@@ -17,4 +17,43 @@
 
   </body>
 
+</html> -->
+<!-- 
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <div class="container-fluid" style="max-width: 80%;">
+      <div class="row">
+        {{ content }}
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html> -->
+
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <div class="container-fluid" style="max-width: 80%;">
+      <div class="row">
+        {{ content }}
+      </div>
+    </div>
+    {% include footer.html %}
+
+    <style>
+      @media only screen and (max-width: 767px) {
+        /* Styles for mobile devices */
+        .container-fluid {
+          /* Resetting margin left and right for mobile devices */
+          margin-left: unset;
+          margin-right: unset;
+        }
+      }
+    </style>
+  </body>
 </html>
