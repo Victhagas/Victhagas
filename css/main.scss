@@ -121,10 +121,10 @@ firstp {
   border-top: 1px solid #000000; /* set the border style to a fine black line */
 }
 
-// .carousel-inner .item img {
-//   width: 50%; /* set the width to occupy the entire width of the carousel */
-//   height: auto; /* maintain the original aspect ratio of the images */
-// }
+.carousel-inner .item img {
+  width: auto; /* set the width to occupy the entire width of the carousel */
+  height: 300px; /* maintain the original aspect ratio of the images */
+}
 
 .panel-footer {
   background-color: #ffffff;
