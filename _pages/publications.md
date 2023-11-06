@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-<div style="margin-top: 35px;">
+<div style="margin-top: 40px;">
 
 ### Publications
 </div>
@@ -21,10 +21,10 @@ permalink: /publications/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix" style="text-align: justify;">>
+<div class="col-sm-6 clearfix" style="text-align: justify;">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left; margin-top: 0px;" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
