@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-<div style="margin-top: 35px;">
+<div style="margin-top: 50px;">
 
 ### Publications
 </div>

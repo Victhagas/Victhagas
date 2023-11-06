@@ -53,11 +53,11 @@ permalink: /
 <div style="text-align: justify;">
   We are based at the [University of Sheffield](https://www.sheffield.ac.uk) in the Department of Psychology. We are also affiliated with Sheffield Robotics, INSIGNEO Institute for in silico Medicine, and the Neuroscience Institute.
 
-  Our research is funded by the [European Union](https://commission.europa.eu/index_en), and the [Leverhulme Trust](https://www.leverhulme.ac.uk).
+  Our research is funded by the [European Union](https://commission.europa.eu/index_en), and the [Neuroscience Institute](https://www.sheffield.ac.uk/neuroscience-institute).
 </div>
 
 <figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Sheffield_Logo.jpg" style="width: 110px; margin-right: 30px; margin-top: 25px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Insigneo_Logo.jpg" style="width: 110px; margin-right: 30px; margin-top: 25px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Leverhulme_Trust_Logo.jpg" style="width: 110px; margin-top: 25px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neuroscience_Logo.jpg" style="width: 110px; margin-top: 25px">
 </figure>
