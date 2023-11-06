@@ -47,7 +47,7 @@ permalink: /team/
 {% endif %}
 
 
-### Alumni
+### Collaborators
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -58,13 +58,16 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-6 clearfix" style="text-align:justify;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
+  <i>{{ member.info }} 
+  <br>email: {{ member.email }}</i>
+  
+  {% if member.number_educ == 1 %}
+  <p> {{ member.education1 }} </p>
+  {% endif %}
 
-  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

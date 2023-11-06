@@ -20,6 +20,8 @@ permalink: /
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+        
     </ol>
 
     <!-- Items -->
@@ -34,11 +36,15 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sheffield-university.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Sim1_collated.png" alt="Slide 4" />
         </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/footsim.png" alt="Slide 5" />
         </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/brain_slice.jpg" alt="Slide 6" />
+        </div>        
+        
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -53,11 +59,11 @@ permalink: /
 <div style="text-align: justify;">
   We are based at the [University of Sheffield](https://www.sheffield.ac.uk) in the Department of Psychology. We are also affiliated with Sheffield Robotics, INSIGNEO Institute for in silico Medicine, and the Neuroscience Institute.
 
-  Our research is funded by the [European Union](https://commission.europa.eu/index_en), and the [Neuroscience Institute](https://www.sheffield.ac.uk/neuroscience-institute).
+  Our research is funded by the [Leverhulme Trust](https://www.leverhulme.ac.uk), and the [Neuroscience Institute](https://www.sheffield.ac.uk/neuroscience-institute).
 </div>
 
 <figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Sheffield_Logo.jpg" style="width: 110px; margin-right: 30px; margin-top: 25px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Leverhulme_Trust_Logo.jpg" style="width: 110px; margin-right: 30px; margin-top: 25px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Insigneo_Logo.jpg" style="width: 110px; margin-right: 30px; margin-top: 25px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neuroscience_Logo.jpg" style="width: 110px; margin-top: 25px">
 </figure>

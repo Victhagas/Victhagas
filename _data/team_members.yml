@@ -1,16 +1,22 @@
-- name: Dr. Rodrigo S Kazu
+- name: Dr Rodrigo S Kazu
   photo: Rodrigo.png
-  info: Data Scientist
+  info: Researcher at INSIGNEO, The Neuroscience Institute and Neural Pathways
   email: r.siqueiradesouza@sheffield.ac.uk
   number_educ: 1
   education1: I am a research associate in computational neuroscience with experience in complex networks, comparative neuroanatomy and cell culturing. In the Active Touch Lab I am helping people walk again by modelling the tactile responses of the foot sole aiming at real-time feedback prosthetics! In addition to that, I am a member of INSIGNEO and a data scientist for the AMRC at the University of Sheffield. My research interests include general intelligence, network neuroscience and information processing in the somatosensory cortex.
 
-- name: Dr. Hannes P Saal
-  photo: Hannes.jpg
-  info: Associate Professor
-  email: h.saal@sheffield.ac.uk
+- name: Dr Nicolas Thorne
+  photo: Nicolas.jpeg
+  info: Innovative Researcher at Neural Pathways
   number_educ: 1
-  education1: I studied Cognitive Science at the University of Osnabrück, Germany. After an internship at the German Aerospace Center (DLR), I obtained an MSc and PhD in Neuroinformatics at the University of Edinburgh. I was then a postdoctoral scholar in Sliman Bensmaia’s lab at the University of Chicago, before joining the University of Sheffield to set up my own lab. For most of my career I have worked on the sense of touch, using methods from computational neuroscience, robotics, and machine learning.
+  education1: Dr Nicolas Thorne received his Bsc in Cognitive Systems from the University of British Columbia (UBC) in Vancouver, Canada and his Msc in Cybernetics from Reading University. His PhD degree was under Prof. Nasuto, Dr. Hayashi and Dr. Honisch (SPCLS). His work focuses on modelling how humans are able to communicate with each other through touch in order to complete a task. High density EEG data will be taken of each pair of participants and analyzed to find the large-scale neural networks that characterize the different states that can be observed during the experiment.
+
+- name: Dr Daniel Menezes Guimaraes
+  photo: rock.jpg
+  info: Data Scientist
+  number_educ: 1
+  education1: I am a highly qualified postdoctoral researcher with a Ph.D. in Neuroscience, specializing in data analysis and animal research. Throughout my academic career, I have honed my expertise in the collection, analysis, and visualization of complex datasets, employing advanced statistical and machine learning models. My proficiency in data-driven methodologies and my hands-on experience with diverse data analysis tools enable me to derive meaningful insights from intricate datasets. I am adept at translating research findings into actionable recommendations and have a proven track record of delivering high-quality results.
+
 
 - name: Paulo F Chagas
   photo: Paulo.jpg

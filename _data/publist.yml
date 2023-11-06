@@ -1,15 +1,15 @@
-- title: "Complexity of spatio-temporal plantar pressure patterns during everyday behaviours"
+- title: "Modeling foot sole cutaneous afferents: FootSim"
   image: paper1.jpg
-  description: Here, we recorded spatio-temporal plantar pressure patterns with high spatial resolution while participants completed a wide range of daily activities, including balancing, locomotion and jumping tasks. Our results suggest optimal sensor placements to capture task-relevant spatial information and provide insight into how pressure varies spatially on the foot sole during a wide variety of natural behaviours
-  authors: Cleland LD, Rowland HM, Mazzà C & Saal HP (2023)
+  description: Here, We developed the FootSim model, a realistic replication of mechanoreceptor activation in the lower limb. The model simulates neural spiking responses to arbitrary mechanical stimuli from the combined population of all four types of mechanoreceptors innervating the foot sole. It considers specific mechanics of the foot sole skin tissue, and model internal parameters are fitted using human microneurography recording dataset.
+  authors: Katic N, Kazu RS, Cleland L, ..., Bent L, Raspopovic S and Saal PH 
   link:
-    url: https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0052
-    display: Journal of Royal Society, Vol. 20, Issue 203 (June 2023)
+    url: https://www.cell.com/iscience/fulltext/S2589-0042(22)02147-2?
+    display: Cell, Vol. 26, Issue 1 (January 2023)
   highlight: 1
 
 - title: "Cellular scaling rules for the brain of Artiodactyla include a highly folded cortex with few neurons"
   image: paper2.jpg
-  description: Here, we suggest that the scaling rules found to be shared across modern afrotherians, glires, and artiodactyls applied to the common Eutherian ancestor, such as the relationship between the mass of the cerebral cortex as a whole and its number of neurons. In turn, the distribution of neurons along the surface of the cerebral cortex, which is related to its degree of gyrification, appears to be a clade-specific characteristic.
+  description: Here, we suggest that the scaling rules found to be shared across modern afrotherians, glires, and artiodactyls applied to the common Eutherian ancestor, such as the relationship between the mass of the cerebral cortex as a whole and its number of neurons. Our results, show that the distribution of neurons along the surface of the cerebral cortex, which is related to its degree of gyrification, appears to be a clade-specific characteristic.
   authors: Kazu RS, Maldonado J, Mota B, Menger PR, Herculano-Houzel S. 
   link:
     url: https://www.frontiersin.org/articles/10.3389/fnana.2014.00128/full

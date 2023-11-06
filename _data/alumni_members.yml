@@ -1,10 +1,6 @@
-- name: Random Guy
-  photo: rock.jpg
-  duration: Previous member of the Neural Pathways Lab, now somewhere else.
-  info: Cool and smart
-  email: 
-  number_educ: 0
-  education1: 
-  education2:
-  education3:
-  education4:
+- name: Dr Hannes P Saal
+  photo: Hannes.jpg
+  info: Associate Professor
+  email: h.saal@sheffield.ac.uk
+  number_educ: 1
+  education1: I studied Cognitive Science at the University of Osnabrück, Germany. After an internship at the German Aerospace Center (DLR), I obtained an MSc and PhD in Neuroinformatics at the University of Edinburgh. I was then a postdoctoral scholar in Sliman Bensmaia’s lab at the University of Chicago, before joining the University of Sheffield to set up my own lab. For most of my career I have worked on the sense of touch, using methods from computational neuroscience, robotics, and machine learning.
