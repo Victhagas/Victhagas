@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-<div style="margin-top: 40px;">
+<div style="margin-top: 45px;">
 
 ### Team
 
