@@ -3,7 +3,7 @@ title: "Neural Pathways Lab - Home"
 layout: homelay
 excerpt: "Neural Pathways at Sheffield University."
 sitemap: false 
-permalink: 
+permalink: /
 ---
                                              
 <div style="margin-top: 35px; text-align:justify;">
