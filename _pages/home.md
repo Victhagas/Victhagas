@@ -3,10 +3,10 @@ title: "Neural Pathways Lab - Home"
 layout: homelay
 excerpt: "Neural Pathways at Sheffield University."
 sitemap: false 
-permalink: /
+permalink: 
 ---
                                              
-<div style="margin-top: 50px; text-align:justify;">
+<div style="margin-top: 35px; text-align:justify;">
   **Welcome to the Neural Pathways laboratory!** We are a dynamic research group. Our aim is to explore and understand, obviously, the neural pathways and its implications, including neuronal newtworks models, brain-imaging, and machine learning. We want to be able to investigate the most briliant instrument of us humans, our brain.
 </div>
 
