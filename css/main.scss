@@ -130,17 +130,17 @@ firstp {
   background-color: #ffffff;
 }
 
-/* Styles for mobile devices */
-@media only screen and (max-width: 767px) {
-  .carousel-inner .item img {
-    width: 70%; height: 35%; 
-  }
-}
+// /* Styles for mobile devices */
+// @media only screen and (max-width: 767px) {
+//   .carousel-inner .item img {
+//     width: 70%; height: 35%; 
+//   }
+// }
 
-/* Styles for computer devices */
-@media only screen and (min-width: 768px) {
-  /* Set image size for computer devices */
-  .carousel-inner .item img {
-    width: 50%; height: 40%;
-  }
-}
+// /* Styles for computer devices */
+// @media only screen and (min-width: 768px) {
+//   /* Set image size for computer devices */
+//   .carousel-inner .item img {
+//     width: 50%; height: 40%;
+//   }
+// }
