@@ -8,12 +8,14 @@
 - name: Dr Nicolas Thorne
   photo: Nicolas.jpeg
   info: Innovative Researcher at Neural Pathways
+  email: thisguyshasnoemail@fornow.ukmx
   number_educ: 1
   education1: Dr Nicolas Thorne received his Bsc in Cognitive Systems from the University of British Columbia (UBC) in Vancouver, Canada and his Msc in Cybernetics from Reading University. His PhD degree was under Prof. Nasuto, Dr. Hayashi and Dr. Honisch (SPCLS). His work focuses on modelling how humans are able to communicate with each other through touch in order to complete a task. High density EEG data will be taken of each pair of participants and analyzed to find the large-scale neural networks that characterize the different states that can be observed during the experiment.
 
 - name: Dr Daniel Menezes Guimaraes
   photo: rock.jpg
   info: Data Scientist
+  email: thisguyshasnoemail@fornow.ukbr
   number_educ: 1
   education1: I am a highly qualified postdoctoral researcher with a Ph.D. in Neuroscience, specializing in data analysis and animal research. Throughout my academic career, I have honed my expertise in the collection, analysis, and visualization of complex datasets, employing advanced statistical and machine learning models. My proficiency in data-driven methodologies and my hands-on experience with diverse data analysis tools enable me to derive meaningful insights from intricate datasets. I am adept at translating research findings into actionable recommendations and have a proven track record of delivering high-quality results.
 
@@ -23,4 +25,4 @@
   info: Visiting Student
   email: pchagas@biof.ufrj.br
   number_educ: 1
-  education1: I am a fourth year BSc student at the federal university of Rio de Janeiro (UFRJ). I've just finished my dissertation on the differences between motor imagery and motor execution, through electroencephalography (EEG) analysis. Also, I am going to the University of Sheffield to do a 2 months project supervised by Dr.Rodrigo Kazu.
+  education1: I am a fourth year BSc student at the federal university of Rio de Janeiro (UFRJ). I've just finished my dissertation on the differences between motor imagery and motor execution, through electroencephalography (EEG) analysis. Now, I am a machine learning researcher at Forebrain (Brazil), working with the prediction of brains metrics, acquired through EEG. Furthermore, I am a data scientist excelled at neural data acquisition, processing, and analysis. I am going to the University of Sheffield to do a 2 months project supervised by Dr.Rodrigo Kazu.
