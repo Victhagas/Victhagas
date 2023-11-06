@@ -110,7 +110,7 @@ firstp {
 }
 
 .well {
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 .navbar-default {
@@ -120,11 +120,6 @@ firstp {
 .panel-footer {
   border-top: 1px solid #000000; /* set the border style to a fine black line */
 }
-
-// .carousel-inner .item img {
-//   width: auto; /* set the width to occupy the entire width of the carousel */
-//   height: 300px; /* maintain the original aspect ratio of the images */
-// }
 
 .panel-footer {
   background-color: #ffffff;
@@ -141,7 +136,7 @@ firstp {
 @media only screen and (min-width: 768px) {
   /* Set image size for computer devices */
   .carousel-inner .item img {
-    width: auto; height: 300px;
+    width: auto; height: 280px;
   }
 }
 
