@@ -137,10 +137,10 @@ firstp {
 /* Styles for mobile devices */
 @media only screen and (max-width: 767px) {
   .container-fluid {
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 20px;
-    padding-right: 20px;
+    margin-left: unset;
+    margin-right: unset;
+    padding-left: unset;
+    padding-right: unset;
   }
 }
 
@@ -157,7 +157,7 @@ firstp {
 /* Styles for mobile devices */
 @media only screen and (max-width: 767px) {
   .logo-img {
-    width: 100%;
+    width: 150px;
     height: auto;
     margin: 10px 0;
   }
