@@ -132,7 +132,7 @@ firstp {
 @media only screen and (min-width: 768px) {
   /* Set image size for computer devices */
   .carousel-inner .item img {
-    width: auto; height: 290px;
+    width: 510px; height: auto;
   }
 }
 
@@ -159,7 +159,7 @@ firstp {
 /* Styles for mobile devices */
 @media only screen and (max-width: 767px) {
   .logo-img {
-    width: 150px;
+    width: 200px;
     height: auto;
     margin: 5px 0;
   }
