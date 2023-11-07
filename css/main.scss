@@ -134,16 +134,22 @@ firstp {
   }
 }
 
-.container-fluid {
-  margin-left: 195px;
-  margin-right: 195px;
-  padding-left: 0px;
-  padding-right: 0px;
+/* Styles for mobile devices */
+@media only screen and (max-width: 767px) {
+  .container-fluid {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 }
 
-.container-fluid.mobile {
-  margin-left: unset;
-  margin-right: unset;
-  padding-left: unset;
-  padding-right: unset;
+/* Styles for computer devices */
+@media only screen and (min-width: 768px) {
+  .container-fluid {
+    margin-left: 195px;
+    margin-right: 195px;
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
