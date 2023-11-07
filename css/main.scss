@@ -142,8 +142,8 @@ firstp {
 }
 
 .container-fluid.mobile {
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: auto;
-  padding-right: auto;
+  margin-left: unset;
+  margin-right: unset;
+  padding-left: unset;
+  padding-right: unset;
 }
