@@ -153,3 +153,24 @@ firstp {
     padding-right: 0;
   }
 }
+
+/* Styles for mobile devices */
+@media only screen and (max-width: 767px) {
+  .logo-img {
+    width: 100%;
+    height: auto;
+    margin: 10px 0;
+  }
+}
+
+/* Styles for computer devices */
+@media only screen and (min-width: 768px) {
+  .logo-img {
+    width: 320px;
+    height: auto;
+    margin-left: -95px;
+    margin-right: 0px;
+    margin-top: 14px;
+    margin-bottom: 14px;
+  }
+}
