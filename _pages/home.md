@@ -7,7 +7,7 @@ permalink: /
 ---
                                              
 <div style="margin-top: 50px; text-align:justify;">
-  **Welcome to the Neural Pathways laboratory!** We are a dynamic research group. Our aim is to explore and understand, obviously, the neural pathways and its implications, including neuronal newtworks models, brain-imaging, and machine learning. We want to be able to investigate the most briliant instrument of us humans, our brain.
+  **Welcome to the Neural Pathways laboratory!** We are a vibrant research group led by Dr Rodrigo Siqueira who is based at the University of Sheffield. The central theme of research revolves around using integrative neuroinformatics methods to explore the complexities of the brain and its information-processing capabilities. The lab's research spans from studying specific neural processes, such as axonal guidance and selective neuronal death, to developing machine learning tools for brain disorder diagnosis and constructing artificial animals (Animat) to investigate general intelligence. By combining network neuroscience, machine learning, and computational models, The Neural Pathways laboratory aims to unlock fundamental insights into brain structure, function, and the mechanisms underlying intelligent behaviour.
 </div>
 
 
