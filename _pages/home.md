@@ -57,9 +57,9 @@ permalink: /
 </div>
 
 <div style="text-align: justify;">
-  We are based at the Institue for in silico Medicine and part of The Neuroscience Institute at the [University of Sheffield](https://www.sheffield.ac.uk).
+  We are based at the Institute for In Silico Medicine and we are part of The Neuroscience Institute at the [University of Sheffield](https://www.sheffield.ac.uk/neuroscience-institute).
 
-  Our research is funded by the [Leverhulme Trust](https://www.leverhulme.ac.uk), and the [Neuroscience Institute](https://www.sheffield.ac.uk/neuroscience-institute).
+  Our research is funded by the [Leverhulme Trust](https://www.leverhulme.ac.uk) and by the [Serrapilheira](https://serrapilheira.org/).
 </div>
 
 <figure class="third">
