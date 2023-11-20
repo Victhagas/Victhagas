@@ -1,21 +1,21 @@
-- name: Dr Rodrigo S Kazu
+- name: Dr Rodrigo Kazu Siqueira
   photo: Rodrigo.png
-  info: Researcher at INSIGNEO, The Neuroscience Institute and Neural Pathways
+  info: Team leader, and researcher at INSIGNEO and The Neuroscience Institute.
   email: r.siqueiradesouza@sheffield.ac.uk
   number_educ: 1
-  education1: I am a research associate in computational neuroscience with experience in complex networks, comparative neuroanatomy and cell culturing. In the Active Touch Lab I am helping people walk again by modelling the tactile responses of the foot sole aiming at real-time feedback prosthetics! In addition to that, I am a member of INSIGNEO and a data scientist for the AMRC at the University of Sheffield. My research interests include general intelligence, network neuroscience and information processing in the somatosensory cortex.
+  education1: I am currently a Data Scientist for the Data and AI theme at the AMRC, University of Sheffield. I started my education with an undergrad in biology heavily focused on zoology and evolution at the University of Brazil, from where I got my quantifiable output in 2010, a publication dealing with the 3D modelling of fossils. I always had an aptitude for computers, gravitating towards projects that involved modelling. This profile led me to a master's in neuroscience at the same institution. There I worked with brain evolution and neuroanatomy, describing the brains of a whole mammalian order, the artiodactyls, which was the main publication of this period in the Frontiers in Neuroanatomy journal (in 2014). This period had an additional publication in the journal PNAS that came in 2019. I spent a significant amount of time during these early years studying programming and statistics to better understand and analyse my data. After graduating I was awarded a scholarship by the CNPq of Brazil to pursue my PhD. I chose the degree of Cybernetics at the University of Reading. There, I developed a complete toolbox to analyse the electrical signals derived from neuronal cell cultures placed onto multielectrode arrays. My work included the complete cycle, from developing a protocol to differentiating neurons from stem cells to writing the complete code of the toolbox, available in a public repository. The conclusion of my PhD allowed me to be hired by the Active Touch Laboratory at the University of Sheffield to work with computational neuroscience and neuroprosthetics. My project during this post-doc won the best research prize at the INSIGNEO Institute and was published in the journal iScience (2022). Now, affiliated to the AMRC I am exploring AI tools for better diagnostics in healthcare as well as developing computational models of the brain that leverage the framework provided by complex network analysis.
 
 - name: Dr Nicolas Thorne
   photo: Nicolas.jpeg
-  info: Innovative Researcher at Neural Pathways
-  email: thisguyshasnoemail@fornow.ukmx
+  info: Researcher in Machine Learning/AI, Computational Neuroscience and Complex Networks
+  email: tnthornet@gmail.com
   number_educ: 1
   education1: Dr Nicolas Thorne received his Bsc in Cognitive Systems from the University of British Columbia (UBC) in Vancouver, Canada and his Msc in Cybernetics from Reading University. His PhD degree was under Prof. Nasuto, Dr. Hayashi and Dr. Honisch (SPCLS). His work focuses on modelling how humans are able to communicate with each other through touch in order to complete a task. High density EEG data will be taken of each pair of participants and analyzed to find the large-scale neural networks that characterize the different states that can be observed during the experiment.
 
 - name: Dr Daniel Menezes Guimaraes
   photo: rock.jpg
-  info: Data Scientist
-  email: thisguyshasnoemail@fornow.ukbr
+  info: Post-doctoral researcher at the Robarts Research Institute
+  email: danielmgui@gmail.com
   number_educ: 1
   education1: I am a highly qualified postdoctoral researcher with a Ph.D. in Neuroscience, specializing in data analysis and animal research. Throughout my academic career, I have honed my expertise in the collection, analysis, and visualization of complex datasets, employing advanced statistical and machine learning models. My proficiency in data-driven methodologies and my hands-on experience with diverse data analysis tools enable me to derive meaningful insights from intricate datasets. I am adept at translating research findings into actionable recommendations and have a proven track record of delivering high-quality results.
 
@@ -25,4 +25,4 @@
   info: Visiting Student
   email: pchagas@biof.ufrj.br
   number_educ: 1
-  education1: I am a fourth year BSc student at the federal university of Rio de Janeiro (UFRJ). I've just finished my dissertation on the differences between motor imagery and motor execution, through electroencephalography (EEG) analysis. Now, I am a machine learning researcher at Forebrain (Brazil), working with the prediction of brains metrics, acquired through EEG. Furthermore, I am a data scientist excelled at neural data acquisition, processing, and analysis. I am going to the University of Sheffield to do a 2 months project supervised by Dr.Rodrigo Kazu.
+  education1: I am a fourth-year BSc student at the Federal University of Rio de Janeiro (UFRJ). I've just finished my dissertation on the differences between motor imagery and motor execution, through electroencephalography (EEG) analysis. Now, I am a machine learning researcher at Forebrain (Brazil), working with the prediction of brain metrics, acquired through EEG. Furthermore, I am a data scientist who excels at neural data acquisition, processing, and analysis. I am going to the University of Sheffield to do a 2-month project supervised by Dr Rodrigo Kazu.
