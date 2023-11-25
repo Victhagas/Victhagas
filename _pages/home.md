@@ -53,7 +53,7 @@ permalink: /
   <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
-  </a>
+  </a></ol>
 </div>
 
 <div style="text-align: justify;">
@@ -62,6 +62,7 @@ permalink: /
 </div>
 
 <figure class="third">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Leverhulme_Trust_Logo.jpg" style="width: 110px; margin-right: 30px; margin-top: 25px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Insigneo_Logo.jpg" style="width: 110px; margin-right: 30px; margin-top: 25px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neuroscience_Logo.jpg" style="width: 110px; margin-top: 25px">
 </figure>
