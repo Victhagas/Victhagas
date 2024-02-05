@@ -41,7 +41,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/brain_slice.jpg" alt="Slide 6" />
         </div>        
     </div>
-    
+
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -49,7 +49,7 @@ permalink: /
   <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
-  </a></ol>
+  </a>
 </div>
 
 <div style="text-align: justify;">
