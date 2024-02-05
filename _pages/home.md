@@ -54,7 +54,6 @@ permalink: /
   </a>
   </div>
 
-</div>
 
   <div style="text-align: justify;">
     We are based at the Institute for In Silico Medicine and we are part of The Neuroscience Institute at the [University of Sheffield](https://www.sheffield.ac.uk/neuroscience-institute).
