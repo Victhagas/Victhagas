@@ -1,7 +1,6 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Neural Pathways Lab at the University of Sheffield."
 sitemap: false
 permalink: /allnews.html
 ---

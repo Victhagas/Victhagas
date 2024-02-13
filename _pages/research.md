@@ -1,7 +1,6 @@
 ---
 title: "Neural Pathways Lab - Current projects"
 layout: gridlay
-excerpt: "Neural Pathways Lab -- Current projects."
 sitemap: false
 permalink: /projcations/
 ---

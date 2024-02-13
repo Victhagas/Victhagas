@@ -1,7 +1,6 @@
 ---
 title: "Neural Pathways Lab - Home"
 layout: homelay
-excerpt: "Neural Pathways at Sheffield University."
 sitemap: false 
 permalink: /
 ---
