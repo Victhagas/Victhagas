@@ -116,23 +116,23 @@ firstp {
 .carousel {
   border-radius: 3px 3px 3px 3px;
   margin-bottom: 20px;
-  margin-top: 50px;
+  margin-top: 20px;
   margin-left: 30px;
   margin-right: 30px;
-  min-height: 300px;
+  min-height: 50px;
 }
 
 /* Styles for mobile devices */
 @media only screen and (max-width: 767px) {
 .carousel-inner .item img {
-  width: auto; height: auto
+  width: auto; height: 100%;
 }
 }
 
 /* Styles for computer devices */
 @media only screen and (min-width: 768px) {
 .carousel-inner .item img {
-  width: auto; height: auto;
+  width: auto; height: 100%;
 }
 }
 
