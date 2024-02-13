@@ -119,13 +119,13 @@ firstp {
   margin-top: 50px;
   margin-left: 30px;
   margin-right: 30px;
-  min-height: 500px;
+  min-height: 300px;
 }
 
 /* Styles for mobile devices */
 @media only screen and (max-width: 767px) {
 .carousel-inner .item img {
-  width: auto; height: 100px; 
+  width: auto; height: auto
 }
 }
 
