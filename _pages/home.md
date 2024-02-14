@@ -20,7 +20,7 @@ permalink: /
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>  
     </ol>
-    
+
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/computational-neuroscience.png" alt="Slide 1"  />
@@ -52,7 +52,7 @@ permalink: /
   </a>
 </div>
 
-<div style="text-align: justify;">
+<div style="text-align: justify; margin-top:100px">
   We are based at the Institute for In Silico Medicine and we are part of The Neuroscience Institute at the [University of Sheffield](https://www.sheffield.ac.uk/neuroscience-institute).
 
 </div>
