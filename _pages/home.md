@@ -23,22 +23,22 @@ permalink: /
 
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/computational-neuroscience.png" alt="Slide 1"  />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/computational-neuroscience.png" alt="Slide 1" style="height:455px; width:134px" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/insigneo_entrance.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/insigneo_entrance.jpg" alt="Slide 2" style="height:455px; width:134px"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sheffield-university.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sheffield-university.jpg" alt="Slide 3" style="height:455px; width:134px"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Sim1_collated.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Sim1_collated.png" alt="Slide 4" style="height:455px; width:134px"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/footsim.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/footsim.png" alt="Slide 5" style="height:455px; width:134px"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/brain_slice.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/brain_slice.jpg" alt="Slide 6" style="height:455px; width:134px"/>
         </div>        
     </div>
 
