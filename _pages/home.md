@@ -4,13 +4,13 @@ layout: homelay
 sitemap: false 
 permalink: /
 ---
-                                             
+
 <div style="margin-top: 50px; text-align:justify;">
   **Welcome to the Neural Pathways laboratory!** We are a vibrant research group led by Dr Rodrigo Siqueira who is based at the University of Sheffield. The central theme of research revolves around using integrative neuroinformatics methods to explore the complexities of the brain and its information-processing capabilities. The lab's research spans from studying specific neural processes, such as axonal guidance and selective neuronal death, to developing machine learning tools for brain disorder diagnosis and constructing artificial animals (Animat) to investigate general intelligence. By combining network neuroscience, machine learning, and computational models, The Neural Pathways laboratory aims to unlock fundamental insights into brain structure, function, and the mechanisms underlying intelligent behaviour.
 </div>
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="height:250px; width:500px; margin-left:175px">
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
