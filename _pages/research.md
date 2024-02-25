@@ -2,7 +2,7 @@
 title: "Neural Pathways Lab - Current projects"
 layout: gridlay
 sitemap: false
-permalink: /projcations/
+permalink: /projects/
 ---
 
 <div style="margin-top: 45px;">
@@ -23,7 +23,7 @@ permalink: /projcations/
 <div class="col-sm-6 clearfix" style="text-align: justify;">
  <div class="well" style="margin-top:16px">
   <projtit>{{ proj.title }}</projtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left;" />
   <p>{{ proj.description }}</p>
   <p><em>{{ proj.authors }}</em></p>
   <p><strong><a href="{{ proj.link.url }}">{{ proj.link.display }}</a></strong></p>
@@ -46,7 +46,7 @@ permalink: /projcations/
 </div>
 {% endif %}
 
-### Full List of projcations
+### Full List of projects
 
 {% for proj in site.data.projst %}
 
