@@ -2,7 +2,7 @@
 title: "Neural Pathways Lab - Current projects"
 layout: gridlay
 sitemap: false
-permalink: /projects/
+permalink: /research/
 ---
 
 <div style="margin-top: 45px;">
@@ -22,7 +22,7 @@ permalink: /projects/
 
 <div class="col-sm-6 clearfix" style="text-align: justify;">
  <div class="well" style="margin-top:16px">
-  <projtit>{{ proj.title }}</projtit>
+  <pubtit>{{ publi.title }}</projtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left;" />
   <p>{{ proj.description }}</p>
   <p><em>{{ proj.authors }}</em></p>
