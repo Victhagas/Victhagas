@@ -11,7 +11,7 @@ permalink: /research/
 </div>
 
 {% assign number_printed = 0 %}
-{% for proj in site.data.projlist %}
+{% for proj in site.data.research %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if proj.highlight == 1 %}
@@ -22,7 +22,7 @@ permalink: /research/
 
 <div class="col-sm-6 clearfix" style="text-align: justify;">
  <div class="well" style="margin-top:16px">
-  <pubtit>{{ publi.title }}</projtit>
+  <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left;" />
   <p>{{ proj.description }}</p>
   <p><em>{{ proj.authors }}</em></p>
@@ -48,7 +48,7 @@ permalink: /research/
 
 ### Full List of projects
 
-{% for proj in site.data.projst %}
+{% for proj in site.data.research %}
 
 {{ proj.title }} <br />
 <em>{{ proj.authors }} </em><br /><a href="{{ proj.link.url }}">{{ proj.link.display }}</a>
