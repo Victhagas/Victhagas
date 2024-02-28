@@ -22,7 +22,19 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix" style="text-align: justify;"> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4>{{ member.name }} 
+  {% if member.twitter %}
+  <a href="https://twitter.com/{{ member.twitter }}" target="_blank">
+    <i class="fa fa-twitter" style="color: #1DA1F2;"></i>
+  </a>
+  {% endif %}
+  {% if member.scholar %}
+  <a href="{{ member.scholar }}" target="_blank">
+    <i class="fa fa-graduation-cap" style="color: black;"></i>
+  </a>
+  {% endif %}
+  </h4>
+
   <i>{{ member.info }}
   <br>email: <{{ member.email }}></i>
 
