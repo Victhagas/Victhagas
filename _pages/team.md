@@ -22,17 +22,18 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix" style="text-align: justify;"> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }} 
-  {% if member.twitter %}
-  <a href="{{ member.twitter }}" target="_blank">
-    <i class="fa fa-twitter" style="color: #1DA1F2;"></i>
-  </a>
-  {% endif %}
-  {% if member.scholar %}
-  <a href="{{ member.scholar }}" target="_blank">
-    <i class="fa fa-graduation-cap" style="color: black;"></i>
-  </a>
-  {% endif %}
+  <h4>
+    {{ member.name }} 
+      {% if member.twitter %}
+        <a href="{{ member.twitter }}" target="_blank">
+          <i class="fa fa-twitter" style="color: black;"></i>
+        </a>
+      {% endif %}
+      {% if member.scholar %}
+        <a href="{{ member.scholar }}" target="_blank">
+          <i class="fa fa-graduation-cap" style="color: black;"></i>
+      </a>
+      {% endif %}
   </h4>
 
   <i>{{ member.info }}
@@ -44,6 +45,12 @@ permalink: /team/
 
 </div>
 
+<style>
+    h4 i.fa {
+        display: inline-block;
+        margin-left: 5px; 
+    }
+</style>
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
