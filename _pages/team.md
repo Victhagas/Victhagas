@@ -26,7 +26,7 @@ permalink: /team/
     {{ member.name }} 
       {% if member.twitter %}
         <a href="{{ member.twitter }}" target="_blank">
-          <img src= twitter.png alt="X" height="25" style="outline:none;text-decoration:none;border:none;width:auto!important;height:25px!important;vertical-align:middle" valign="middle" width="auto;"/>
+          <img src= "{{ site.url }}{{ site.baseurl }}/images/logopic/twitter.png" alt="X" height="25" style="outline:none;text-decoration:none;border:none;width:auto!important;height:25px!important;vertical-align:middle" valign="middle" width="auto;"/>
         </a>
       {% endif %}
       {% if member.scholar %}
@@ -45,14 +45,6 @@ permalink: /team/
 
 </div>
 
-<img src= twitter.png alt="X" height="25" style="outline:none;text-decoration:none;border:none;width:auto!important;height:25px!important;vertical-align:middle" valign="middle" width="auto">
-<style>
-    h4 i.fa {
-        display: inline;
-        margin-left: 7px; 
-    }
-
-</style>
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
