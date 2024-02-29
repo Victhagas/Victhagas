@@ -24,7 +24,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }} 
   {% if member.twitter %}
-  <a href="https://twitter.com/{{ member.twitter }}" target="_blank">
+  <a href="{{ member.twitter }}" target="_blank">
     <i class="fa fa-twitter" style="color: #1DA1F2;"></i>
   </a>
   {% endif %}
