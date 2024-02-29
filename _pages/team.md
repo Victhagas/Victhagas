@@ -47,9 +47,10 @@ permalink: /team/
 
 <style>
     h4 i.fa {
-        display: inline-block;
-        margin-left: 5px; 
+        display: inline;
+        margin-left: 7px; 
     }
+
 </style>
 {% assign number_printed = number_printed | plus: 1 %}
 
