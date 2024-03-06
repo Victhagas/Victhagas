@@ -22,24 +22,24 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix" style="text-align: justify;"> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left"/>
-  <h4>
-        {{ member.name }} <br/>
-        <a href="{{ member.twitter }}" target="_blank">
-          <i class="fa fa-graduation-cap" style="color: black;"></i>
-        <a href="{{ member.scholar }}" target="_blank">
-          <i class="fa fa-graduation-cap" style="color: black;"></i>
-        </a>
-  </h4>
-
-<!-- <i class="fa-brands fa-x-twitter"></i> -->
-
-  <i>{{ member.info }}
-  <br>email: <{{ member.email }}></i>
+    <div class="member-infos" style="overflow:hidden;">
+      <h4>
+          {{ member.name }} <br/>
+          <a href="{{ member.twitter }}" target="_blank">
+            <i class="fa fa-graduation-cap" style="color: black;"></i>
+          <a href="{{ member.scholar }}" target="_blank">
+            <i class="fa-brands fa-x-twitter" style="color: black;"></i>
+          </a>
+      </h4>
+      <i>
+        {{ member.info }}
+        <br>email: <{{ member.email }}>
+      </i>
+    </div>
 
   {% if member.number_educ == 1 %}
   <p> {{ member.education1 }} </p>
   {% endif %}
-
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
