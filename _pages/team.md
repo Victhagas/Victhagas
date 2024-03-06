@@ -21,13 +21,17 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix" style="text-align: justify;"> 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left"/>
-  {{ member.name }} <br/>
-  <a href="{{ member.twitter }}" target="_blank">
-    <i class="fa fa-graduation-cap" style="color: black;"></i>
-  <a href="{{ member.scholar }}" target="_blank">
-    <i class="fa-brands fa-x-twitter" style="color: black;"></i>
-  </a>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left">
+  <h4 style="display:flex; flex-direction:column>
+        {{ member.name }} <br/>
+        <a href="{{ member.twitter }}" target="_blank">
+          <i class="fa fa-graduation-cap" style="color: black;"></i>
+        <a href="{{ member.scholar }}" target="_blank">
+          <i class="fa fa-graduation-cap" style="color: black;"></i>
+        </a>
+  </h4>
+
+<!-- <i class="fa-brands fa-x-twitter"></i> -->
 
   <i>{{ member.info }}
   <br>email: <{{ member.email }}></i>
