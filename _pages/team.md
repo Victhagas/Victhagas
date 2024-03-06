@@ -23,8 +23,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix" style="text-align: justify;"> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>
-    {{ member.name }} 
-      {% if member.twitter %}
+    {{ member.name }}{% if member.twitter %}
         <a href="{{ member.twitter }}" target="_blank">
           <img src= "{{ site.url }}{{ site.baseurl }}/images/logopic/twitter.png" alt="X" height="25" style="outline:none;text-decoration:none;border:none;width:auto!important;height:25px!important;vertical-align:middle" valign="middle" width="auto;"/>
         </a>
