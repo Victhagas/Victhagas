@@ -1,6 +1,6 @@
 ---
 title: "Neural Pathways Lab - Team"
-layout: team
+layout: gridlay
 sitemap: false
 permalink: /team/
 ---
