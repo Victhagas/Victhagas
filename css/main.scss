@@ -136,11 +136,20 @@ firstp {
 }
 
 /* Styles for computer devices */
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 920px) {
   .carousel {
     height:250px;
     width:500px;
     margin-left:175px;
+  }
+}
+
+/* Styles for smaller screens */
+@media only screen and (max-width: 767px) {
+  .carousel {
+    height:250px;
+    width:500px;
+    margin-left:30px;
   }
 }
 
