@@ -1,34 +1,34 @@
-- title: "Modeling foot sole cutaneous afferents: FootSim"
+- title: "Our first research project"
   image: paper1.jpg
-  description: Here, We developed the FootSim model, a realistic replication of mechanoreceptor activation in the lower limb. The model simulates neural spiking responses to arbitrary mechanical stimuli from the combined population of all four types of mechanoreceptors innervating the foot sole. It considers specific mechanics of the foot sole skin tissue, and model internal parameters are fitted using human microneurography recording dataset.
-  authors: Katic N, Kazu RS, Cleland L, ..., Bent L, Raspopovic S and Saal PH 
+  description: 
+  interested: Diego Scszupak, Daniel Guimarães, Rodrigo Siqueira and Paulo Chagas
   link:
     url: https://www.cell.com/iscience/fulltext/S2589-0042(22)02147-2?
     display: Cell, Vol. 26, Issue 1 (January 2023)
   highlight: 1
 
-- title: "Cellular scaling rules for the brain of Artiodactyla include a highly folded cortex with few neurons"
+- title: "Our second research project"
   image: paper2.jpg
-  description: Here, we suggest that the scaling rules found to be shared across modern afrotherians, glires, and artiodactyls applied to the common Eutherian ancestor, such as the relationship between the mass of the cerebral cortex as a whole and its number of neurons. Our results, show that the distribution of neurons along the surface of the cerebral cortex, which is related to its degree of gyrification, appears to be a clade-specific characteristic.
-  authors: Kazu RS, Maldonado J, Mota B, Menger PR, Herculano-Houzel S. 
+  description: 
+  interested: Nicolas Thorne and Daniel Guimarães.
   link:
     url: https://www.frontiersin.org/articles/10.3389/fnana.2014.00128/full
     display: Frontiers in Neuroanatomy, Vol. 8 (December 2014)
   highlight: 1
 
-- title: "White matter volume and white/gray matter ratio in mammalian species as a consequence of the universal scaling of cortical folding"
+- title: "Our third research project"
   image: paper3.jpeg
-  description: Here, we postulate that the relative white matter volume is determined as the developing cortex settles in the most energetically favorable folded conformation, regardless of its number of neurons.
-  authors: Mota B, Dos Santos SE, Ventura-Antunes L, Neves K, Kazu RS, Herculano-Houzel S.
+  description: 
+  interested: Rodrigo Siqueira and Kleber Neves.
   link:
     url: https://www.pnas.org/doi/full/10.1073/pnas.1716956116#sec-1
     display: The Proceedings of the National Academy of Sciences, Vol. 116, No. 30 (December 2014)
   highlight: 1
 
-- title: "Three-dimensional computational modelling technique and its application in paleontology"
+- title: "Our fourth research project"
   image: paper4.jpg
-  description: The three-dimensional computer modelling consists in acquiring of linear measurements or images of an object, through different methodologies, and the subsequent data insertion in software modeling programs. The acquisition of data can be accomplished through manual measurement of the object dimensions or through photogrammetry, with or without calibration base, videogrammetry with laser trace and webcam, white light projection, 3D laser-scanners (hand and table), and tomography. In paleontology 3D modeling may serve as a tool in works involving morphological and biomechanical studies, in the precise calculation of corporal mass, center of mass observation, volume and posture, and in studies of myological and tissue formation. It also enables structural corrections, simulation of living organisms, and it serves as a tool for disseminate scientifi c works. In this study, several fossil images was captured and tested in distinct 3D modeling methods to evaluate resolution, operating effi ciency, and advantages of its application on paleontological studies. Videogrammetry with laser trace and webcam proved to be the most economic methodology, while videogrammetry with white light projection was the most precise and accurate, being specifi cally helpful on small samples. Some application examples are also presented.
-  authors: Ulisses Dardon, Rodrigo Siqueira de Souza, Carla Terezinha Serio Abranches, Lílian Paglarelli Bergqvist
+  description:  
+  interested: Paulo Chagas, Rodrigo Siqueira.
   link:
     url: https://core.ac.uk/download/pdf/228894781.pdf
     display: Gaea Journal of Geoscience (2010)
