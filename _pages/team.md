@@ -24,12 +24,14 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left">
   <h4>{{ member.name }}</h4>
   <a href="{{ member.twitter }}" target="_blank">
-    <i class="fa fa-graduation-cap" style="color: black;"></i>
+    <i class="fa fa-twitter" style="font-size:10px"></i>
   <a href="{{ member.scholar }}" target="_blank">
-    <i class="fa-brands fa-x-twitter" style="color: black;"></i>
+    <i class="fa fa-graduation-cap" style="font-size:10px"></i>
+  <a href="{{ member.email }}" target="_blank">
+    <i class="fa fa-envelope" style="font-size:10px"></i>
   </a>
   
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }}<br></i>
 
   {% if member.number_educ == 1 %}
   <p> {{ member.education1 }} </p>
