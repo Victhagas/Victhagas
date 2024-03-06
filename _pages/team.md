@@ -29,7 +29,7 @@ permalink: /team/
     <i class="fa fa-graduation-cap" style="color: black;"></i>
   </a>
 
-  <i>{{ member.info }}</i>
+  <i style="overflow:hidden">{{ member.info }}</i>
 
   {% if member.number_educ == 1 %}
   <p> {{ member.education1 }} </p>
