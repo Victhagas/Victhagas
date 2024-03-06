@@ -25,7 +25,7 @@ permalink: /research/
   <pubtit>{{ proj.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left;" />
   <p>{{ proj.description }}</p>
-  <p><em>{{ proj.authors }}</em></p>
+  <p><em>{{ proj.interested }}</em></p>
   <p><strong><a href="{{ proj.link.url }}">{{ proj.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ proj.news1 }}</strong></p>
   <p> {{ proj.news2 }}</p>
@@ -51,6 +51,6 @@ permalink: /research/
 {% for proj in site.data.research %}
 
 {{ proj.title }} <br />
-<em>{{ proj.authors }} </em><br /><a href="{{ proj.link.url }}">{{ proj.link.display }}</a>
+<em>{{ proj.interested }} </em><br /><a href="{{ proj.link.url }}">{{ proj.link.display }}</a>
 
 {% endfor %}
