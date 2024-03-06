@@ -1,7 +1,7 @@
 - title: "Our first research project"
   image: paper1.jpg
   description: 
-  interested: Interested -> Diego Scszupak, Daniel Guimarães, Rodrigo Siqueira and Paulo Chagas
+  interested: Interested - Diego Scszupak, Daniel Guimarães, Rodrigo Siqueira and Paulo Chagas
   link:
     url: https://www.cell.com/iscience/fulltext/S2589-0042(22)02147-2?
     display: Cell, Vol. 26, Issue 1 (January 2023)
@@ -10,7 +10,7 @@
 - title: "Our second research project"
   image: paper2.jpg
   description: 
-  interested: Interested -> Nicolas Thorne and Daniel Guimarães.
+  interested: Interested - Nicolas Thorne and Daniel Guimarães.
   link:
     url: https://www.frontiersin.org/articles/10.3389/fnana.2014.00128/full
     display: Frontiers in Neuroanatomy, Vol. 8 (December 2014)
@@ -19,7 +19,7 @@
 - title: "Our third research project"
   image: paper3.jpeg
   description: 
-  interested: Interested -> Rodrigo Siqueira and Kleber Neves.
+  interested: Interested - Rodrigo Siqueira and Kleber Neves.
   link:
     url: https://www.pnas.org/doi/full/10.1073/pnas.1716956116#sec-1
     display: The Proceedings of the National Academy of Sciences, Vol. 116, No. 30 (December 2014)
@@ -28,7 +28,7 @@
 - title: "Our fourth research project"
   image: paper4.jpg
   description:  
-  interested: Interested -> Paulo Chagas, Rodrigo Siqueira.
+  interested: Interested - Paulo Chagas, Rodrigo Siqueira.
   link:
     url: https://core.ac.uk/download/pdf/228894781.pdf
     display: Gaea Journal of Geoscience (2010)
