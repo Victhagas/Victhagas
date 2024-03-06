@@ -22,15 +22,14 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix" style="text-align: justify;"> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left">
-  <h4>{{ member.name }}</h4> 
-  <br/>
+  <h3>{{ member.name }}</h3> 
   <a href="{{ member.twitter }}" target="_blank">
     <i class="fa fa-graduation-cap" style="color: black;"></i>
   <a href="{{ member.scholar }}" target="_blank">
     <i class="fa fa-graduation-cap" style="color: black;"></i>
   </a>
 
-  <i>{{ member.info }}
+  <i s>{{ member.info }}
   <br>email: <{{ member.email }}></i>
 
   {% if member.number_educ == 1 %}
