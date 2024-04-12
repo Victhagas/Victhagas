@@ -23,7 +23,7 @@ permalink: /research/
 <div class="col-sm-6 clearfix" style="text-align: justify;">
  <div class="well" style="margin-top:16px">
   <pubtit>{{ proj.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left;" />
   <p>{{ proj.description }}</p>
   <p><em>{{ proj.interested }}</em></p>
   <p><strong><a href="{{ proj.link.url }}">{{ proj.link.display }}</a></strong></p>
