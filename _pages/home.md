@@ -18,7 +18,6 @@ permalink: /
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>  
     </ol>
 
     <div class="carousel-inner" markdown="0">
@@ -28,17 +27,15 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/insigneo_entrance.jpg" alt="Slide 2" style="height:250px; width:500px"/>
         </div>
+        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sheffield-university.jpg" alt="Slide 3" style="height:250px; width:500px"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Sim1_collated.png" alt="Slide 4" style="height:250px; width:500px"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Sim1_collated.png" alt="Slide 3" style="height:250px; width:500px"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/footsim.png" alt="Slide 5" style="height:250px; width:500px"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/footsim.png" alt="Slide 4" style="height:250px; width:500px"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/brain_slice.jpg" alt="Slide 6" style="height:250px; width:500px"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/brain_slice.jpg" alt="Slide 5" style="height:250px; width:500px"/>
         </div>        
     </div>
 
