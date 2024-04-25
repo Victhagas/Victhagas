@@ -1,3 +1,12 @@
+- name: Dr Klever Neves
+  photo: kleber.png
+  info: Researcher at the Federal University of Rio de Janeiro
+  email: klebertnajr@gmail.com
+  number_educ: 1
+  education1: Neves has a bachelor's degree in biomedical sciences from the Federal University of Rio de Janeiro (UFRJ) and a PhD in Neurosciences from the same institution. He did research on the evolution of the nervous system and of cognition. He was part of the coordinating team of the Brazilian Reproducibility Initiative, working with metascience, biostatistics, reproducibility and scientometrics. He is part of the Board of Directors of ASAPBio, an organization that promotes transparency in scientific communication in the life sciences. At Serrapilheira, he works as manager in the Science Program, taking care of the program’s impact evaluation.
+  twitter: https://twitter.com/
+  scholar:
+
 - name: Dr Hannes P Saal
   photo: Hannes.jpg
   info: Associate Professor
